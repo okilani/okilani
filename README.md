@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**okilani/okilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - I’m currently in 'introto computer science' class.
 - I have been in ACS for 11 years as of grade 9.
