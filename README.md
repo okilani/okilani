@@ -31,7 +31,7 @@ https://mail.google.com/mail
 2. I'm checking it twice.
 
 
-Hello{^1}
+Hello[^1]
 
 
 
