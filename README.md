@@ -23,6 +23,10 @@ https://mail.google.com/mail
 | Very yummy | Fine      |   Okay |
 
 
-<a href="[http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/Y1-76T_boV4)
-" target="_blank"><img src="[http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://youtu.be/Y1-76T_boV4)" 
-alt="Youtube vide" width="240" height="180" border="10" /></a> 
+~~Hello.~~ 
+
+*Goodbye*
+
+1. I'm making a list
+2. I'm checking it twice.
+⋅⋅* Sub List 
